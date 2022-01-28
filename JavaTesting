@@ -1,0 +1,9 @@
+*.java linguist-detectable=true *.js linguist-detectable=false *.html linguist-detectable=false *.xml linguist-detectable=false
+<html>  
+<body>  
+<script type="text/javascript">  
+document.write("JavaScript is a simple language for javatpoint learners");  
+document.write("this is working");
+</script>  
+</body>  
+</html>  
